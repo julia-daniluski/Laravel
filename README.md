@@ -11,3 +11,17 @@ Um framework PHP, robusto que serve o padrão **MVC**:
 * Roteamento simples;
 * Conexão rápida com o BD (banco de dados);
 * Sistema de autenticação/autorização.
+
+## Estrutura de pastas
+
+⇢ App
+
+⇢ Route
+
+⇢ Resources
+
+⇢ Database
+
+⇢ Public
+
+⇢ Config
