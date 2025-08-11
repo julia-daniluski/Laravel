@@ -14,17 +14,17 @@ Um framework PHP, robusto que serve o padrão **MVC**:
 
 ## Estrutura de pastas
 
-⇢ App
+⇢ App (controllers, models)
 
-⇢ Route
+⇢ Route (rotas do programa, ligações, API)
 
-⇢ Resources
+⇢ Resources (views, assets)
 
-⇢ Database
+⇢ Database (migrations, banco de dados)
 
-⇢ Public
+⇢ Public (index.php)
 
-⇢ Config
+⇢ Config (.env)
 
 **"PHP Artisan" é a interface de linha de comando incluída no framework Laravel.**
 Exemplos:
