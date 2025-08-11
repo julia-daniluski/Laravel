@@ -3,7 +3,7 @@
 ## O que é?
 
 Um framework PHP, robusto que serve o padrão **MVC**:
-**M** (como registra no banco) **V** (as páginas) **C** (requisições) que oferece diversas ferramentas e recursos para agilizar o processo de desenvolvimento, como gerenciamento de sessões, cache, autenticação e roteamento. 
+***M** (como registra no banco) **V** (as páginas) **C** (requisições)* que oferece diversas ferramentas e recursos para agilizar o processo de desenvolvimento, como gerenciamento de sessões, cache, autenticação e roteamento. 
 
 A versão mais atual desse framework é o Laravel 12 focada em refinamento, segurança e experiência do desenvolvedor.
 
