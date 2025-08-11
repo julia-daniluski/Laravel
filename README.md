@@ -26,5 +26,14 @@ Um framework PHP, robusto que serve o padrão **MVC**:
 
 ⇢ Config
 
-(**PHP** Artisan *Serve*)
+**"PHP Artisan" é a interface de linha de comando incluída no framework Laravel.**
+Exemplos:
 
+* php artisan list: Lista todos os comandos disponíveis do Artisan. 
+* php artisan serve: Inicia um servidor de desenvolvimento local para a aplicação. 
+* php artisan migrate: Executa as migrações do banco de dados. 
+* php artisan make:migration: Cria um novo arquivo de migração. 
+* php artisan tinker: Permite interagir com a aplicação via linha de comando, incluindo o ORM Eloquent. 
+* php artisan route:list: Lista todas as rotas definidas na aplicação. 
+* php artisan config:cache: Cria uma versão armazenada em cache da configuração da aplicação para melhor desempenho, ideal para produção, mas deve ser usado com cautela em desenvolvimento. 
+* php artisan cache:clear: Limpa o cache da aplicação. 
